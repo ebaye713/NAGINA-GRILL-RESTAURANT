@@ -1,0 +1,6 @@
+{
+  "name": "Nagina Grill & Restaurant",
+  "description": "Authentic Pakistani and Desi charcoal grill, slow-cooked karahi, and weekend specials in Barking. Located at 93 Longbridge Road, Barking IG11 8TB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
